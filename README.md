@@ -1,4 +1,4 @@
-# Grp-1-OOP-58001-Delas-Alas_Guzman_Lozano_Salino_Tabobo
+# Grp-1-OOP-58001-De-Las-Alas_Guzman_Lozano_Salino_Tabobo
 Group 1 Repository
 OOP 58001 - TTh 7:00-10:00
 
