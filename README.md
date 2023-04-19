@@ -4,7 +4,7 @@ OOP 58001 - TTh 7:00-10:00
 
 LOZANO, Gilmore Floyd - Leader
 
-DELAS ALAS, Reuben John
+DE LAS ALAS, Reuben John
 
 GUZMAN, Roel John
 
