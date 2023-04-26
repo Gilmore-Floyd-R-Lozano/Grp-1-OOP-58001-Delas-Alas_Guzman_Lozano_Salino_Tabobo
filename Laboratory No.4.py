@@ -2,7 +2,6 @@
 import tkinter
 from tkinter import *
 
-
 class MyWindow:
     def __init__(self, win):
         #       variable for holding the pressed buttons
