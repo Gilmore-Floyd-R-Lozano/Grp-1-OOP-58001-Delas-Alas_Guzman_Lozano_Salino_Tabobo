@@ -2,7 +2,7 @@
 import tkinter
 from tkinter import *
 
-class MyWindow:
+class Calculator:
     def __init__(self, win):
         #       variable for holding the pressed buttons
         self.val = ""
@@ -226,7 +226,7 @@ class MyWindow:
 
 
 window = Tk()
-mywin = MyWindow(window)
+mywin = Calculator(window)
 
 #                   ---- WINDOW CONFIGURATIONS ----
 window.geometry("222x370")
