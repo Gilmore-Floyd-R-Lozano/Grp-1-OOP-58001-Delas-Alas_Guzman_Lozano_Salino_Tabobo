@@ -7,7 +7,7 @@ window.geometry("400x200")
 
 table = [["a", "a^2", "a^3"]]
 
-text1 = Text(window)
+text1 = Text(window, pady=60, bg="#e8f5fa")
 text1.pack()
 
 # generating list
