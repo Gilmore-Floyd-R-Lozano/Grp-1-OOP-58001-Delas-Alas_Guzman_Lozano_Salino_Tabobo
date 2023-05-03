@@ -13,6 +13,8 @@ text1.pack()
 # generating list
 for num in range(1, 5):
     table.extend([[str(num), str(num**2), str(num**3)]])
+    
+# displaying list 
 for row in table:
     text1.insert(END, ' {}  {:^20}  {} '.format(*row))
     text1.insert(END, "\n")
