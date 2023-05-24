@@ -349,7 +349,7 @@ def MMW():
     btnHome = Button(frame_MMW, image=HOME_ICON, command=Home, bd=0, bg="white")
     btnHome.place(x=845, y=545)
 
-    btnEO_Time = Button(frame_MMW, text="Exact and Ordinary Time Calculator", width=40, height=6, command=Ext_Time_Calc)
+    btnEO_Time = Button(frame_MMW, text="Exact Time Calculator", width=40, height=6, command=Ext_Time_Calc)
     btnEO_Time.place(x=120, y=125)
     btnSimp_Interest = Button(frame_MMW, text="Simple Interest Calculator", width=40, height=6, command=Simp_Int)
     btnSimp_Interest.place(x=120, y=325)
@@ -374,8 +374,8 @@ def Ext_Time_Calc():
     btnHome = Button(frame_Ext_Time, image=HOME_ICON, command=Home, bd=0, bg="white")
     btnHome.place(x=845, y=545)
 
-    lblTitle = Label(frame_Ext_Time, text="Exact and Ordinary Time Calculator", bg='#8DD7FE', font=("Helvetica", 30))
-    lblTitle.place(x=160, y=50)
+    lblTitle = Label(frame_Ext_Time, text="Exact Time Calculator", bg='#8DD7FE', font=("Helvetica", 30))
+    lblTitle.place(x=275, y=50)
     lblDay = Label(frame_Ext_Time, text="DAY:", bg='#8DD7FE', font=("Helvetica", 20))
     lblDay.place(x=100, y=130)
     lblMonth = Label(frame_Ext_Time, text="MONTH:", bg='#8DD7FE', font=("Helvetica", 20))
