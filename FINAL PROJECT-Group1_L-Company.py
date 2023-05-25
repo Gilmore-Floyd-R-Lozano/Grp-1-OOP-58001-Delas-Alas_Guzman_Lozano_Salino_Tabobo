@@ -1,3 +1,4 @@
+"""FINAL PROJECT     Group 1 - Delas Alas, Guzman, Lozano, Salino, Tabobo"""
 from tkinter import *
 from PIL import ImageTk, Image  # use this to import more image file type like jpeg, etc.
 from tkinter.messagebox import showinfo
